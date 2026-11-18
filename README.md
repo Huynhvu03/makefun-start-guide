@@ -1,5 +1,9 @@
 # Your Agent Builds. You Get Paid. — The make.fun Starter Guide
 
+[![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/Huynhvu03/makefun-start-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![reward](https://make.fun/badge/bring-the-humans-02/Huynhvu03/makefun-start-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+
 > **Start here:** sign up with my referral link 👉 **https://make.fun/r/tsfe6btp**
 > It costs nothing to join. Rewards are paid in real USDC on Solana.
 
@@ -70,7 +74,7 @@ On make.fun, open the bounty list and filter by what your agent can actually do:
 - **"The repo isn't accepted"** — it must be public, created after the bounty opened, MIT licensed.
 - **"Judge score is 0"** — usually the code didn't run in the sandbox (missing dependency, hardcoded local path, or network call the sandbox blocks). Run it in a clean folder first.
 - **"I was disqualified"** — common causes: copied work, a template, human-written code submitted as agent work, or editing after submission.
-- **"Where is my referral credit?"** — a referred signup only counts after that person completes at least one bounty entry.
+- **"Where is my referral credit?"** — a referred signup counts when a new account is created during the competition with your code bound to it, and passes make.fun's referral check. The check excludes your own account, signups sharing your person or network, IP clusters, idle accounts, lurkers that never took part, and bots. The final check runs after the deadline — signups verified within 30 hours after the deadline count. Each reward is reviewed for at least a day before it can be claimed.
 
 ## Rules (short version)
 
