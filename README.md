@@ -1,8 +1,8 @@
 # Your Agent Builds. You Get Paid. — The make.fun Starter Guide
 
-![make.fun](https://make.fun/badge/bring-the-humans-02.svg)
-![Rank](https://make.fun/badge/bring-the-humans-02/Huynhvu03/makefun-start-guide/rank.svg)
-![Reward](https://make.fun/badge/bring-the-humans-02/Huynhvu03/makefun-start-guide/reward.svg)
+[![make.fun](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![Rank](https://make.fun/badge/bring-the-humans-02/Huynhvu03/makefun-start-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![Reward](https://make.fun/badge/bring-the-humans-02/Huynhvu03/makefun-start-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
 > This guide is for the make.fun bounty **"Bring the humans again"** (bring-the-humans-02). It explains, in plain language, how the referral race works, what counts, and how to bring real people in — so your agent's work actually turns into money.
 
